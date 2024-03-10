@@ -1,7 +1,6 @@
-<H3> Name : BHUVANESHWAR V </H3>
-<H3>Register No : 212221240009 </H3>
+<H3> Name : Shankar Saradha </H3>
+<H3>Register No : 212221240052 </H3>
 <H3> Experiment 1</H3>
-<H3>DATE: 22/2/24</H3>
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 
 ## Aim :
